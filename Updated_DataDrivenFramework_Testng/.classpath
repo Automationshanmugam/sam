@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="src" path="src"/>
+	<classpathentry kind="src" path="Config"/>
+	<classpathentry kind="src" path="Scripts"/>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER/org.eclipse.jdt.internal.debug.ui.launcher.StandardVMType/JavaSE-1.6"/>
+	<classpathentry kind="lib" path="C:/Users/sai/Desktop/Jar Files/selenium-java-2.44.0.jar"/>
+	<classpathentry kind="lib" path="C:/Users/sai/Desktop/Jar Files/selenium-java-2.44.0-srcs.jar"/>
+	<classpathentry kind="lib" path="C:/Users/sai/Desktop/Jar Files/selenium-server-standalone-2.44.0.jar"/>
+	<classpathentry kind="lib" path="C:/Users/sai/Desktop/Jar Files/poi-3.5-FINAL.jar"/>
+	<classpathentry kind="lib" path="C:/Users/sai/Desktop/Jar Files/poi-src-3.8.jar"/>
+	<classpathentry kind="lib" path="C:/Users/sai/Desktop/Jar Files/ATUReporter_Selenium_testNG_5.5 BETA + ATU Recorder 2.1+javadoc+propfile/ATUReporter_Selenium_testNG_5.5_BETA.jar"/>
+	<classpathentry kind="lib" path="C:/Users/sai/Desktop/Jar Files/ATUReporter_Selenium_testNG_5.5 BETA + ATU Recorder 2.1+javadoc+propfile/ATUTestRecorder_2.1.jar"/>
+	<classpathentry kind="con" path="org.testng.TESTNG_CONTAINER"/>
+	<classpathentry combineaccessrules="false" kind="src" path="/Java_Practice"/>
+	<classpathentry combineaccessrules="false" kind="src" path="/Selenium_TestNG_DataDrivenFramework"/>
+	<classpathentry kind="output" path="bin"/>
+</classpath>
